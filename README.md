@@ -1,6 +1,6 @@
 # 0G Desktop Wallet
 
-
+![image](https://github.com/user-attachments/assets/94a03a60-73da-453e-b3dd-27e0c0cc8695)
 
 ## About the Project
 
